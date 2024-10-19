@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\6_sem\\Desa 8\\Laboratorios\\lab7\\Lab7-Bd2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94A32038-8B91-4204-9666-8A60597E1C84}|Lab7-Bd2.vbproj|C:\\Users\\user\\Documents\\6_sem\\Desa 8\\Laboratorios\\lab7\\Lab7-Bd2\\reportereservas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{94A32038-8B91-4204-9666-8A60597E1C84}|Lab7-Bd2.vbproj|solutionrelative:reportereservas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A32038-8B91-4204-9666-8A60597E1C84}|Lab7-Bd2.vbproj|c:\\users\\user\\documents\\6_sem\\desa 8\\laboratorios\\lab7\\lab7-bd2\\formularioreserva.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{94A32038-8B91-4204-9666-8A60597E1C84}|Lab7-Bd2.vbproj|solutionrelative:formularioreserva.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A32038-8B91-4204-9666-8A60597E1C84}|Lab7-Bd2.vbproj|C:\\Users\\user\\Documents\\6_sem\\Desa 8\\Laboratorios\\lab7\\Lab7-Bd2\\formularioreserva.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{94A32038-8B91-4204-9666-8A60597E1C84}|Lab7-Bd2.vbproj|solutionrelative:formularioreserva.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A32038-8B91-4204-9666-8A60597E1C84}|Lab7-Bd2.vbproj|C:\\Users\\user\\Documents\\6_sem\\Desa 8\\Laboratorios\\lab7\\Lab7-Bd2\\reportereservas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{94A32038-8B91-4204-9666-8A60597E1C84}|Lab7-Bd2.vbproj|solutionrelative:reportereservas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A32038-8B91-4204-9666-8A60597E1C84}|Lab7-Bd2.vbproj|C:\\Users\\user\\Documents\\6_sem\\Desa 8\\Laboratorios\\lab7\\Lab7-Bd2\\reserva.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{94A32038-8B91-4204-9666-8A60597E1C84}|Lab7-Bd2.vbproj|solutionrelative:reserva.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormularioReserva.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\6_sem\\Desa 8\\Laboratorios\\lab7\\Lab7-Bd2\\FormularioReserva.vb",
+              "RelativeDocumentMoniker": "FormularioReserva.vb",
+              "ToolTip": "C:\\Users\\user\\Documents\\6_sem\\Desa 8\\Laboratorios\\lab7\\Lab7-Bd2\\FormularioReserva.vb [Design]",
+              "RelativeToolTip": "FormularioReserva.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-19T15:21:11.673Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReporteReservas.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\6_sem\\Desa 8\\Laboratorios\\lab7\\Lab7-Bd2\\ReporteReservas.vb",
+              "RelativeDocumentMoniker": "ReporteReservas.vb",
+              "ToolTip": "C:\\Users\\user\\Documents\\6_sem\\Desa 8\\Laboratorios\\lab7\\Lab7-Bd2\\ReporteReservas.vb [Design]",
+              "RelativeToolTip": "ReporteReservas.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-19T15:21:09.956Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormularioReserva.vb",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\6_sem\\Desa 8\\Laboratorios\\lab7\\Lab7-Bd2\\FormularioReserva.vb",
+              "RelativeDocumentMoniker": "FormularioReserva.vb",
+              "ToolTip": "C:\\Users\\user\\Documents\\6_sem\\Desa 8\\Laboratorios\\lab7\\Lab7-Bd2\\FormularioReserva.vb",
+              "RelativeToolTip": "FormularioReserva.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-19T14:28:30.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReporteReservas.vb",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\6_sem\\Desa 8\\Laboratorios\\lab7\\Lab7-Bd2\\ReporteReservas.vb",
+              "RelativeDocumentMoniker": "ReporteReservas.vb",
+              "ToolTip": "C:\\Users\\user\\Documents\\6_sem\\Desa 8\\Laboratorios\\lab7\\Lab7-Bd2\\ReporteReservas.vb",
+              "RelativeToolTip": "ReporteReservas.vb",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAewAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-19T14:09:45.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reserva.vb",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\6_sem\\Desa 8\\Laboratorios\\lab7\\Lab7-Bd2\\Reserva.vb",
+              "RelativeDocumentMoniker": "Reserva.vb",
+              "ToolTip": "C:\\Users\\user\\Documents\\6_sem\\Desa 8\\Laboratorios\\lab7\\Lab7-Bd2\\Reserva.vb",
+              "RelativeToolTip": "Reserva.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-19T13:35:18.918Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
